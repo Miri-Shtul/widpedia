@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G2OSlEgQxVFxAuD7dsGpCccTScRMfRBINmCC8frqde8=",
+  "Source": "Widipedia.WebApi",
+  "BasePath": "_content/Widipedia.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

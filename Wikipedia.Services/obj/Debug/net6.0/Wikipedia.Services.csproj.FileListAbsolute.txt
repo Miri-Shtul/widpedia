@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\bin\Debug\net6.0\Wikipedia.Services.deps.json
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\bin\Debug\net6.0\Wikipedia.Services.dll
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\bin\Debug\net6.0\Wikipedia.Services.pdb
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\obj\Debug\net6.0\Wikipedia.Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\obj\Debug\net6.0\Wikipedia.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\obj\Debug\net6.0\Wikipedia.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\obj\Debug\net6.0\Wikipedia.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\obj\Debug\net6.0\Wikipedia.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\obj\Debug\net6.0\Wikipedia.Services.dll
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\obj\Debug\net6.0\refint\Wikipedia.Services.dll
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\obj\Debug\net6.0\Wikipedia.Services.pdb
+C:\Users\User\Desktop\wikipedia\Wikipedia.Services\obj\Debug\net6.0\ref\Wikipedia.Services.dll
